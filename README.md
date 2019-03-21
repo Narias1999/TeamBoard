@@ -1,6 +1,6 @@
 # teamboard
 
-> An electron app for orgazate your team flow
+> An electron app to organizate your team workflow
 
 #### Build Setup
 
